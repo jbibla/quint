@@ -82,6 +82,15 @@ Contains an import + const instantiation.
 quint verify --init=Init --step=Next --invariant=Postcondition ../examples/classic/sequential/BinSearch/BinSearch10.qnt
 ```
 
+### Can verify `../examples/puzzles/prisoners/prisoners.qnt`
+
+Use `--main` to set main module different from filename
+
+<!-- !test check can check prisoners.qnt -->
+```
+quint verify --main prisoners3 examples/puzzles/prisoners/prisoners.qnt
+```
+
 ### Default `step` and `init` operators are found
 
 <!-- !test check can find default operator names -->
