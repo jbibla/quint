@@ -36,31 +36,31 @@ yet. To set your expectations right, check the dashboard below first.
 This dashboard shows, how far we have checked the examples in the
 Quint-Apalache pipeline.
 
-| Example          | Syntax           | Types            | Unit tests       | Apalache    |
-| ---------------- |:----------------:|:----------------:|:----------------:|:-----------:|
+| Example          | Syntax           | Types            | Unit tests       |      Apalache      |
+| ---------------- |:----------------:|:----------------:|:----------------:|:------------------:|
 |                    **Solidity**                                                         |
-| [Coin][]         |:white_check_mark:|:white_check_mark:|:white_check_mark:| :x:         |
-| [SimpleAuction][]|:white_check_mark:|:white_check_mark:|:white_check_mark:| :x:         |
-| [icse23-fig7][]  |:white_check_mark:|:white_check_mark:|:white_check_mark:| :x:         |
-| [ERC20][]        |:white_check_mark:|:white_check_mark:|:white_check_mark:| :x:         |
-| [simplePonzi][]  |:white_check_mark:|:white_check_mark:|:white_check_mark:| :x:         |
-| [gradualPonzi][] |:white_check_mark:|:white_check_mark:|:white_check_mark:| :x:         |
+| [Coin][]         |:white_check_mark:|:white_check_mark:|:white_check_mark:|        :x:         |
+| [SimpleAuction][]|:white_check_mark:|:white_check_mark:|:white_check_mark:|        :x:         |
+| [icse23-fig7][]  |:white_check_mark:|:white_check_mark:|:white_check_mark:|        :x:         |
+| [ERC20][]        |:white_check_mark:|:white_check_mark:|:white_check_mark:|        :x:         |
+| [simplePonzi][]  |:white_check_mark:|:white_check_mark:|:white_check_mark:|        :x:         |
+| [gradualPonzi][] |:white_check_mark:|:white_check_mark:|:white_check_mark:|        :x:         |
 |                    **Cosmos**                                                           |
-| [ICS23][]        |:white_check_mark:|:white_check_mark:|:x:               | :x:         |
-| [Tendermint][]   |:white_check_mark:|:white_check_mark:|:white_check_mark:| :x:         |
+| [ICS23][]        |:white_check_mark:|:white_check_mark:|:x:               |        :x:         |
+| [Tendermint][]   |:white_check_mark:|:white_check_mark:|:white_check_mark:|        :x:         |
 |                    **Classic**                                                          |
-| [ClockSync][]    |:white_check_mark:|:white_check_mark:|:x:               | :x:         |
-| [LamportMutex][] |:white_check_mark:|:white_check_mark:|:x:               | :x:         |
-| [Paxos][]        |:white_check_mark:|:white_check_mark:|:x:               | :x:         |
-| [ReadersWriters][]|:white_check_mark:|:white_check_mark:|:x:              | :x:         |
-| [EWD840][]       |:white_check_mark:|:white_check_mark:|:x:               | :x:         |
-| [BinSearch][]    |:white_check_mark:|:white_check_mark:|:white_check_mark:| :x:         |
+| [ClockSync][]    |:white_check_mark:|:white_check_mark:|:x:               |        :x:         |
+| [LamportMutex][] |:white_check_mark:|:white_check_mark:|:x:               |        :x:         |
+| [Paxos][]        |:white_check_mark:|:white_check_mark:|:x:               |        :x:         |
+| [ReadersWriters][]|:white_check_mark:|:white_check_mark:|:x:              |        :x:         |
+| [EWD840][]       |:white_check_mark:|:white_check_mark:|:x:               |        :x:         |
+| [BinSearch][]    |:white_check_mark:|:white_check_mark:|:white_check_mark:| :white_check_mark: |
 |                    **Puzzles**                                                          |
-| [Prisoners][]    |:white_check_mark:|:white_check_mark:|:x:               | :x:         |
-| [tictactoe][]    |:white_check_mark:|:white_check_mark:|:x:               | :x:         |
+| [Prisoners][]    |:white_check_mark:|:white_check_mark:|:x:               | :white_check_mark: |
+| [tictactoe][]    |:white_check_mark:|:white_check_mark:|:x:               |        :x:         |
 |                    **Language features**                                                |
-| [booleans][]     |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-| [counters][]     |:white_check_mark:|:white_check_mark:|:white_check_mark:| :x:         |
+| [booleans][]     |:white_check_mark:|:white_check_mark:|:white_check_mark:| :white_check_mark: |
+| [counters][]     |:white_check_mark:|:white_check_mark:|:white_check_mark:|        :x:         |
 | TBD                                                                                     |
 
 
