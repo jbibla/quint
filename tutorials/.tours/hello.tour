@@ -57,7 +57,7 @@
       "file": "lesson0-helloworld/hello.qnt"
     },
     {
-      "title": "Suming it up",
+      "title": "Summing it up",
       "description": "\nWe have covered all the aspects of our \"Hello, world!\" example.\nActually, we could have written a much shorter example, but it would not\ndemonstrate the distinctive features of Quint. If you look at the\nsource code of [hello.qnt](./hello.qnt), it is not scary long.\n\nWe are experimenting with different kinds of tutorials.\nIt would be great to learn, whether you liked this tutorial format, or not.\nPlease vote in the\n[discussion](https://github.com/informalsystems/quint/discussions/509).\n        ",
       "line": 44,
       "file": "lesson0-helloworld/hello.qnt"
