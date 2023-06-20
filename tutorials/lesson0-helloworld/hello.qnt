@@ -7,7 +7,7 @@ module hello {
     // the state variable to keep the output by the computer
     var consoleOutput: str
 
-    // the state variable to keep the out read by the user
+    // the state variable to keep the output read by the user
     var readByUser: str
 
     // initialize the state machine that captures the protocol
